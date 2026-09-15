@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# appsettings.Production.json and Staging are still excluded
+appsettings.Production.json
+appsettings.Staging.json
+
+# Rider / VS / VS Code
+.idea/
+.vs/
+*.user
+*.suo
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

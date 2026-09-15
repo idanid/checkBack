@@ -1,0 +1,6 @@
+@checkBack_HostAddress = http://localhost:5210
+
+GET {{checkBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
